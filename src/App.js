@@ -24,11 +24,11 @@ function App() {
             </Route>
 
             <Route path="/admin">
-              <Admin/>
+              <Admin />
             </Route>
 
             <Route path="/addProduct">
-              <AddProduct/>
+              <AddProduct />
             </Route>
 
             <Route path="/ProductDetails:id">
@@ -36,11 +36,11 @@ function App() {
             </Route>
 
             <Route path="/updateprod:id">
-              <Update/>
+              <Update />
             </Route>
 
             <Route path="/cartComp">
-              <Cart/>
+              <Cart />
             </Route>
           </Switch>
         </div>
